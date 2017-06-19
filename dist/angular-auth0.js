@@ -1,4 +1,4 @@
-const Auth0 require('auth0-js');
+const Auth0 = require('auth0-js');
 
 (function() {
 
